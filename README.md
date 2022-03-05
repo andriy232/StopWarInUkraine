@@ -1,10 +1,13 @@
-# Российское вторжение в Украину (2022) |<br>Російське вторгнення в Україну (2022) |<br> Russian invasion of Ukraine (2022)
+# Российское вторжение в Украину (2022)<br>Російське вторгнення в Україну (2022)<br> Russian invasion of Ukraine (2022)
 
 *Репозиторий создан для предотвращения сокрытия информации о войне в Украине для жителей Российской Федерации.*
 *Репозиторій створений для запобіганню приховування інформації стосовно війни в Україні для жителів Російської Федерації.*
 *The repository was created to prevent the concealment of information about the war in Ukraine for residents of the Russian Federation.*
 
-Посилання на оригінал статті: https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B5_%D0%B2%D1%82%D0%BE%D1%80%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%83_(2022)
+Посилання на оригінал статті: [Российское вторжение в Украину](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B5_%D0%B2%D1%82%D0%BE%D1%80%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%83_(2022))
+
+
+![alt text](report.jpg)
 
 [На русском](#Russian)
 [Українською](#Ukrainian)
@@ -19,7 +22,7 @@
 
 Благодаря сопротивлению украинской армии и сил самообороны уже в первые дни агрессии российская армия понесла значительные потери в живой силе и технике. В своей новейшей истории, по оценкам Украины, Россия во всех войнах, которые она вела, еще не терпела даже примерно таких больших потерь за столь короткое время. По признанию западной разведки, Россия встретила более сильное, чем ожидалось, сопротивление, что обусловило материально-технические проблемы для ее войск, нехватку горючего, боеприпасов и продовольствия, подрыв боевого духа нападающих. Быстрое объединение стран мира для помощи Украине, как и введение мощных санкций против России, явилось неожиданным ударом для страны-агрессора.
 
-#####С первого дня вторжения Россия нарушает правила ведения войны и массово совершает военные преступления.
+##### С первого дня вторжения Россия нарушает правила ведения войны и массово совершает военные преступления.
 
 # Ukrainian:
 
@@ -31,7 +34,7 @@
 
 Завдяки спротиву української армії і сил самооборони вже в перші дні агресії російська армія зазнала значних втрат у живій силі і техніці. У своїй новітній історії, за оцінками України, Росія в усіх війнах, які вона вела, ще не зазнавала навіть приблизно таких великих втрат за такий короткий час. За визнанням західної розвідки, Росія зустріла сильніший, ніж очікувалося, опір, що зумовило матеріально-технічні проблеми для її військ, нестачу пального, боєприпасів і продовольства, підрив бойового духу нападників. Швидке об'єднання країн світу для допомоги Україні, як і запровадження потужних санкцій проти Росії, стало несподіваним ударом для країни-агресора.
 
-#####З першого дня вторгнення Росія порушує правила ведення війни і масово чинить воєнні злочини.
+##### З першого дня вторгнення Росія порушує правила ведення війни і масово чинить воєнні злочини.
 
 # English:
 The Russian invasion of Ukraine in 2022 is an open military attack by Russia on Ukraine, launched on February 24, at 5 am in 2022. The invasion is part of the Russian-Ukrainian war waged by Russia in 2014, in which Russia has consistently denied participation.
@@ -42,4 +45,4 @@ At about 5 o'clock Kyiv time on February 24, Russian President Vladimir Putin an
 
 Due to the resistance of the Ukrainian army and self-defense forces, already in the first days of the aggression, the Russian army suffered significant losses in manpower and equipment. In its recent history, according to Ukraine, in all the wars it has waged, Russia has not suffered even such great losses in such a short time. According to Western intelligence, Russia met with stronger resistance than expected, which led to logistical problems for its troops, lack of fuel, ammunition and food, undermining the fighting spirit of the attackers. The rapid unification of the world to help Ukraine, as well as the imposition of strong sanctions against Russia, came as a surprise blow to the aggressor country.
 
-#####From the first day of the invasion, Russia violates the rules of war and commits mass war crimes.
+##### From the first day of the invasion, Russia violates the rules of war and commits mass war crimes.
